@@ -104,4 +104,4 @@ All dependencies are listed in `environment.yml`. Key packages:
 - `pyyaml` — reads the config file
 - `xarray`, `netCDF4` — for working with the downloaded data
 
-Script prepared and organized by NPEC 
+Prepared by NPEC 
